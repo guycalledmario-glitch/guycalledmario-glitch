@@ -12,7 +12,7 @@ Soy Mario, aspirante a desarrollador apasionado por crear herramientas útiles y
 
 ## 🌱 Qué estoy aprendiendo
 
-- **Ahora mismo:** Git y Python
+- **Ahora mismo:** React y Python
 - **Siguiente paso:** Frontend y backend
 - **Me interesa:** diseño web
 
