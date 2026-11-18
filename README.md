@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">¡Hola, soy Mario! 👋</h1>
 
-<!--
-**guycalledmario-glitch/guycalledmario-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Golpear al hardware e insultar al software. Lo bueno viene luego.</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 Sobre mí
+
+Soy Mario, aspirante a desarrollador apasionado por crear herramientas útiles y aprender cosas nuevas cada día.
+
+## 🌱 Qué estoy aprendiendo
+
+- **Ahora mismo:** Git y Python
+- **Siguiente paso:** Frontend y backend
+- **Me interesa:** diseño web
+
+## 🛠️ Tecnologías y herramientas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+## ✨ Un poco de mí
+
+- 🎧 Mi banda favorita es Coldplay
+- 🎮 Leer, videojuegos, ver series y películas
