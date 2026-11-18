@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Mario! 👋</h1>
+<h1 align="center">¡Buenas, soy Mario! 👋</h1>
 
 <p align="center">
   <em>Golpear al hardware e insultar al software. Lo bueno viene luego.</em>
